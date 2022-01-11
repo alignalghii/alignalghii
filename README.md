@@ -1,4 +1,4 @@
-I am interested in Topology, algebra, category theory, intuitionistic type theory and mathematical logic.
+I am interested in topology, algebra, category theory, intuitionistic type theory and mathematical logic.
 I am trying to approach Agda.
 I have some background in Haskell (since 2004).
 <!--
